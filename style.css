@@ -1,0 +1,51 @@
+body {
+  /* margin: 0;
+  padding: 0; */
+  font-family: Arial, Helvetica, sans-serif;
+}
+.jumbotron {
+  background: #4d85ff;
+  padding: 100px;
+}
+.card {
+  border: 5px solid #ffe2a6;
+}
+.card-body {
+  background: #ffedb9;
+}
+.card-header,
+.card-footer {
+  background: #ffe2a6;
+}
+.card-form {
+  margin-top: -70px;
+  /* width: 75%; */
+}
+.form-control,
+.form-select {
+  margin-top: 5px;
+}
+.form-date {
+  width: 200px;
+}
+.btn-simpan,
+.btn-loading {
+  background: #83d79c;
+}
+.btn-batal {
+  background: #ff6e90;
+}
+.btn-selesai {
+  background: #ffa0b1;
+}
+
+.card-profil {
+  width: 100%;
+}
+
+footer {
+  margin-top: 85px;
+  font-weight: bold;
+  color: white;
+  background: #4d85ff;
+}
